@@ -10,4 +10,4 @@ services:
       - key: PYTHON_VERSION
         value: 3.11.11
       - key: FRONTEND_ORIGINS
-        value: https://vyom-x-engine-twin.vercel.app
+        value: https://dashboard-pi-beryl-44.vercel.app
